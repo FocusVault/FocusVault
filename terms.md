@@ -1,7 +1,7 @@
 # TERMS OF SERVICE
 
-**Last Updated: December 19, 2024**  
-**Effective Date: December 19, 2024**
+**Last Updated: August 1, 2025**  
+**Effective Date: August 1, 2025**
 
 ## 1. AGREEMENT TO TERMS
 
