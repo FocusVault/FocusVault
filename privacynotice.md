@@ -1,4 +1,4 @@
-# PRIVACY POLICY
+# PRIVACY NOTICE
 
 **Last Updated: August 1, 2025**  
 **Effective Date: August 1, 2025**  
