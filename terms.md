@@ -1,207 +1,529 @@
 # TERMS OF SERVICE
 
 **Last Updated: August 1, 2025**  
-**Effective Date: August 1, 2025**
+**Effective Date: August 1, 2025**  
+**Version: 2.0**
+
+## IMPORTANT NOTICE
+
+**THESE TERMS CONTAIN A BINDING ARBITRATION CLAUSE (SECTION 11.4) THAT AFFECTS YOUR LEGAL RIGHTS. PLEASE READ CAREFULLY.**
 
 ## 1. AGREEMENT TO TERMS
 
-These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and József Juhász, an individual entrepreneur operating from 6000 Kecskemét, Katona József utca 14, Hungary ("we," "us," "our," or "Developer"), concerning your access to and use of the FocusVault mobile application (the "App").
+### 1.1 Binding Agreement
 
-By downloading, installing, accessing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you must not use the App.
+These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and József Juhász, an individual entrepreneur registered in Hungary, operating from 6000 Kecskemét, Katona József utca 14, Hungary ("Developer," "we," "us," or "our"), governing your access to and use of the FocusVault mobile application ("App"), related services, and any associated content or functionality.
 
-## 2. ELIGIBILITY
+### 1.2 Acceptance
 
-You must be at least thirteen (13) years of age to use the App. By using the App, you represent and warrant that:
-- You are at least 13 years of age
-- You have the legal capacity to enter into these Terms
-- Your use of the App complies with all applicable laws and regulations
+By downloading, installing, accessing, or using the App, you:
+- Acknowledge you have read and understood these Terms
+- Agree to be legally bound by these Terms
+- Represent you have the legal capacity to enter this agreement
+- Confirm you meet the age requirements in Section 2
 
-If you are between 13 and 18 years of age, you must have your parent or legal guardian's permission to use the App.
+### 1.3 Entire Agreement
 
-## 3. LICENSE GRANT
+These Terms, together with our Privacy Policy (available at Settings > Privacy within the App), constitute the entire agreement between you and the Developer regarding the App and supersede all prior agreements, understandings, or communications.
 
-### 3.1 Limited License
+## 2. ELIGIBILITY AND AGE REQUIREMENTS
+
+### 2.1 Minimum Age Requirements
+- **Global Minimum**: 13 years of age
+- **EU/EEA**: 13 years with parental consent until age 16
+- **Jurisdiction-Specific**: Higher minimum if required by local law
+
+### 2.2 Age Verification
+
+You must truthfully confirm your age upon first use. We reserve the right to:
+- Implement additional age verification methods
+- Terminate accounts of users who misrepresent their age
+- Request proof of age or parental consent
+
+### 2.3 Parental Consent (Ages 13-16 in EU)
+
+If you are between 13 and 16 years old in the EU/EEA:
+- Parental consent is required
+- Parents may request account data or deletion
+- We may contact parents to verify consent
+
+### 2.4 Capacity Representation
+
+By using the App, you represent and warrant that:
+- You have the legal capacity to enter binding contracts
+- You are not barred from receiving services under applicable law
+- Your use complies with all applicable laws and regulations
+- You will provide accurate information when required
+
+## 3. LICENSE GRANT AND RESTRICTIONS
+
+### 3.1 Limited License Grant
+
 Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable, personal license to:
-- Download and install the App on mobile devices you own or control
-- Access and use the App for your personal, non-commercial purposes
+- Download and install the App on devices you own or control
+- Access and use the App for personal, non-commercial purposes
+- Create and manage your personal tasks and habits
+- Export your data for personal backup
 
 ### 3.2 License Restrictions
+
 You agree NOT to:
-- Copy, modify, or create derivative works of the App
-- Reverse engineer, disassemble, or decompile the App
-- Remove, alter, or obscure any proprietary notices
-- Rent, lease, lend, sell, redistribute, or sublicense the App
-- Use the App for any illegal, harmful, or unauthorized purpose
-- Attempt to gain unauthorized access to the App or its systems
-- Use automated systems or software to extract data from the App
-- Interfere with or disrupt the App's functionality
+- **Reverse Engineer**: Decompile, disassemble, or reverse engineer the App
+- **Modify**: Create derivative works or modify the App
+- **Distribute**: Sell, rent, lease, sublicense, or redistribute the App
+- **Remove Notices**: Remove or alter proprietary notices or labels
+- **Circumvent**: Bypass any technical limitations or security measures
+- **Automate**: Use bots, scripts, or automated tools with the App
+- **Misuse**: Use the App for illegal, harmful, or unauthorized purposes
+- **Interfere**: Disrupt or interfere with the App's operation
+- **Impersonate**: Pretend to be another person or entity
+- **Commercial Use**: Use the App for commercial purposes without permission
+
+### 3.3 Source Code
+
+The App's source code, if made available, is subject to separate open-source licenses. Commercial use requires explicit written permission.
 
 ## 4. INTELLECTUAL PROPERTY RIGHTS
 
-### 4.1 Ownership
-The App, including all content, features, functionality, design, code, and materials, is owned by József Juhász and is protected by Hungarian, European Union, and international copyright, trademark, patent, trade secret, and other intellectual property laws.
+### 4.1 Developer's Rights
 
-### 4.2 User Content
-You retain ownership of any tasks, habits, or other content you create within the App ("User Content"). By using the App, you grant us a limited license to store and process your User Content solely for the purpose of providing the App's functionality.
+The Developer owns all rights, title, and interest in and to:
+- The App's code, design, and architecture
+- Visual designs, animations, and user interfaces  
+- The "FocusVault" name, logo, and branding
+- Documentation and marketing materials
+- Any improvements or derivatives we create
+
+Protected under:
+- Hungarian copyright law
+- EU Copyright Directive 2019/790
+- International copyright treaties
+- Trademark and design rights where applicable
+
+### 4.2 Your Content Rights
+
+You retain all rights to content you create in the App ("User Content"), including:
+- Tasks and task descriptions
+- Habits and tracking data
+- Personal notes and categories
+- Exported backup files
+
+### 4.3 License to User Content
+
+By using the App, you grant us a limited, non-exclusive license to:
+- Store and process your User Content locally on your device
+- Display your User Content within the App interface
+- Include anonymized, aggregated statistics in app improvements
+- This license terminates when you delete your content or uninstall the App
+
+### 4.4 Feedback and Suggestions
+
+Any feedback, suggestions, or ideas you provide:
+- Become our property without compensation to you
+- May be used for any purpose without restriction
+- Do not create any confidentiality obligation for us
 
 ## 5. PRIVACY AND DATA PROTECTION
 
-### 5.1 Data Processing
-Your use of the App is also governed by our Privacy Policy, available at https://github.com/[YOUR-GITHUB]/focusvault/blob/main/PRIVACY.md, which is incorporated into these Terms by reference.
+### 5.1 Privacy Policy
 
-### 5.2 Local Storage
-The App operates on a local-first principle. All User Content is stored locally on your device using encrypted storage. We do not collect, transmit, or have access to your User Content unless you explicitly share it.
+Your use of the App is governed by our Privacy Policy, which is incorporated by reference. Key points:
+- All data stored locally on your device
+- No automatic cloud synchronization
+- We don't track or monitor your usage
+- You control all data exports
 
-### 5.3 GDPR Compliance
-As a data controller based in the European Union, we comply with the General Data Protection Regulation (GDPR). You have the right to:
-- Access your personal data
-- Rectify inaccurate data
-- Erase your data
-- Restrict processing
-- Data portability
-- Object to processing
+### 5.2 Local Data Storage
+- Data encrypted using AES-256 encryption
+- Stored using platform secure storage APIs
+- No transmission to external servers
+- You are responsible for device security
 
-## 6. PAYMENT TERMS
+### 5.3 Data Portability
 
-### 6.1 Free and Premium Features
-The App offers both free and premium features. Premium features require payment of applicable fees.
+You may export your data at any time through the App's backup feature. Exports are your responsibility to secure.
 
-### 6.2 Subscription Terms
-- Premium subscriptions are billed monthly or annually
-- Payment is processed through approved third-party payment processors
-- Subscriptions automatically renew unless cancelled
-- You may cancel your subscription at any time through your app store account
+### 5.4 GDPR Compliance
 
-### 6.3 Refunds
-All sales are final. Refunds are provided only as required by applicable law or app store policies.
+As an EU-based service, we comply with GDPR requirements:
+- Right to access your data
+- Right to rectification
+- Right to erasure
+- Right to data portability
+- Right to object to processing
 
-## 7. DISCLAIMERS
+## 6. PAYMENT TERMS AND SUBSCRIPTIONS
 
-### 7.1 "AS IS" Basis
-THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. WE SPECIFICALLY DISCLAIM ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+### 6.1 Free Version Limitations
 
-### 7.2 No Guarantee
-We do not guarantee that:
-- The App will meet your requirements or expectations
-- The App will be uninterrupted, timely, secure, or error-free
-- The results obtained from the App will be accurate or reliable
-- Any errors in the App will be corrected
+The free version includes:
+- Up to 5 active tasks
+- Unlimited habits
+- Basic task decay features
+- Local data storage
+- Manual data export
 
-### 7.3 Medical Disclaimer
-THE APP IS NOT INTENDED TO PROVIDE MEDICAL, PSYCHOLOGICAL, OR PROFESSIONAL ADVICE. The ADHD-related features are for organizational purposes only and do not constitute medical treatment or diagnosis. Always consult qualified professionals for medical or psychological concerns.
+### 6.2 Premium Subscription ("FocusVault Pro")
 
-## 8. LIMITATION OF LIABILITY
+Premium features include:
+- Unlimited active tasks
+- Advanced decay algorithms
+- Priority support
+- Future cloud backup (when available)
+- Early access to new features
 
-### 8.1 Exclusion of Damages
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL JÓZSEF JUHÁSZ BE LIABLE FOR:
-- ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
-- LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES
-- DAMAGES RELATING TO YOUR ACCESS TO OR USE OF THE APP
-- DAMAGES RELATING TO ANY CONDUCT OR CONTENT OF ANY THIRD PARTY
-- ANY LOSS OF DATA OR USER CONTENT
+### 6.3 Subscription Terms
+- **Billing Periods**: Monthly or Annual
+- **Payment Processing**: Via Apple App Store or Google Play Store
+- **Auto-Renewal**: Subscriptions automatically renew unless cancelled
+- **Price Changes**: 30-day notice for existing subscribers
+- **Currencies**: Prices displayed in your local currency
 
-### 8.2 Cap on Liability
-IN ANY CASE, OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU HAVE PAID TO US IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO LIABILITY, OR ONE HUNDRED EUROS (€100), WHICHEVER IS GREATER.
+### 6.4 Cancellation and Refunds
+- **Cancellation**: Manage through your app store account settings
+- **Timing**: Cancel at least 24 hours before renewal
+- **Access**: Premium features available until period ends
+- **Refunds**: Per app store policies (we don't control refunds)
+- **EU Cooling-Off**: 14-day withdrawal right per EU consumer law
 
-### 8.3 Jurisdictional Limitations
-Some jurisdictions do not allow limitation of certain warranties or damages. In such jurisdictions, our liability is limited to the maximum extent permitted by law.
+### 6.5 Promotional Offers
+- Promotional prices apply for specified duration
+- Regular pricing applies after promotion ends
+- Cannot be combined with other offers
+- Non-transferable and no cash value
 
-## 9. INDEMNIFICATION
+## 7. USER RESPONSIBILITIES
 
-You agree to defend, indemnify, and hold harmless József Juhász from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
+### 7.1 Account Security
+
+You are responsible for:
+- Maintaining device security (PIN, biometric lock)
+- Protecting exported backup files
+- Keeping the App updated
+- Not sharing your device with unauthorized users
+
+### 7.2 Acceptable Use
+
+You agree to:
+- Use the App lawfully and ethically
+- Respect others' rights and privacy
+- Not use the App to harass, harm, or stalk
+- Comply with all applicable laws
+
+### 7.3 Prohibited Content
+
+Do not create tasks or habits involving:
+- Illegal activities
+- Violence or self-harm
+- Harassment or hate speech
+- Infringement of others' rights
+- Explicit sexual content
+- Malware or harmful code
+
+### 7.4 Consequences of Violation
+
+Violations may result in:
+- Warning or temporary suspension
+- Permanent account termination
+- Legal action if warranted
+- Reporting to authorities if required
+
+## 8. DISCLAIMERS AND IMPORTANT NOTICES
+
+### 8.1 "AS IS" BASIS
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND. WE SPECIFICALLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING:
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY OR RELIABILITY
+- UNINTERRUPTED OR ERROR-FREE OPERATION
+
+### 8.2 NO PROFESSIONAL ADVICE
+
+**MEDICAL DISCLAIMER**: The App is NOT a medical device and does not provide:
+- Medical, psychological, or psychiatric advice
+- ADHD diagnosis or treatment
+- Mental health therapy or counseling
+- Crisis intervention services
+
+**IMPORTANT**: Always consult qualified healthcare professionals for medical or mental health concerns. If you're experiencing a mental health crisis, contact emergency services or a crisis helpline immediately.
+
+### 8.3 No Guarantee of Results
+
+We do not guarantee:
+- Improved productivity or task completion
+- Habit formation success
+- Any specific outcomes from using the App
+- Data recovery if you lose your device
+- Compatibility with all devices
+
+### 8.4 Third-Party Services
+
+We are not responsible for:
+- App store policies or actions
+- Payment processor issues
+- Device manufacturer limitations
+- Operating system changes affecting the App
+
+## 9. LIMITATION OF LIABILITY
+
+### 9.1 DAMAGES EXCLUSION
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR:
+- Indirect, incidental, or consequential damages
+- Loss of profits, data, or business opportunities
+- Cost of substitute products or services
+- Emotional distress or mental anguish
+- Punitive or exemplary damages
+- Any damages exceeding the liability cap below
+
+### 9.2 LIABILITY CAP
+
+OUR TOTAL LIABILITY SHALL NOT EXCEED THE GREATER OF:
+- Amount paid by you in the 12 months preceding the claim
+- €100 (One Hundred Euros)
+
+### 9.3 ESSENTIAL PURPOSE
+
+These limitations apply even if:
+- We knew or should have known of potential damages
+- Any remedy fails its essential purpose
+- You relied on the App for critical tasks
+
+### 9.4 JURISDICTION VARIATIONS
+
+Some jurisdictions prohibit certain liability exclusions. Where prohibited:
+- Limitations apply to maximum extent permitted
+- Statutory rights remain unaffected
+- EU consumer protection rights are preserved
+
+## 10. INDEMNIFICATION
+
+### 10.1 Your Indemnification Obligation
+
+You agree to defend, indemnify, and hold harmless the Developer from:
 - Your violation of these Terms
-- Your use or misuse of the App
-- Your User Content
-- Your violation of any third-party rights
-- Your violation of any applicable laws or regulations
+- Your User Content or use of the App
+- Your violation of any law or third-party rights
+- Claims arising from your account usage
+- Your negligent or intentional misconduct
 
-## 10. TERMINATION
+### 10.2 Indemnification Process
+- We'll notify you of claims requiring indemnification
+- You may choose legal counsel (subject to our approval)
+- We retain the right to participate with our own counsel
+- You cannot settle claims affecting us without our consent
 
-### 10.1 Termination by You
-You may terminate these Terms at any time by deleting the App from your device.
+### 10.3 EU Consumer Exception
 
-### 10.2 Termination by Us
-We may terminate or suspend your access to the App immediately, without prior notice or liability, for any reason, including if you breach these Terms.
+For EU consumers, indemnification applies only to damages caused by your intentional or grossly negligent breach of these Terms.
 
-### 10.3 Effect of Termination
+## 11. DISPUTE RESOLUTION
+
+### 11.1 Informal Resolution
+
+Before formal proceedings, you agree to attempt resolution by:
+1. Contacting us at securify@securedataerase.com
+2. Providing detailed description of the dispute
+3. Engaging in good faith negotiations for 30 days
+4. Considering mediation if direct negotiation fails
+
+### 11.2 Governing Law
+
+These Terms are governed by:
+- **Primary**: Laws of Hungary
+- **EU Regulations**: Where applicable
+- **Exclusion**: UN Convention on Contracts (CISG) excluded
+
+### 11.3 Jurisdiction
+
+**For EU Consumers**: You may bring claims in:
+- Courts of Hungary (our location)
+- Courts of your EU member state residence
+
+**For Others**: Exclusive jurisdiction of Kecskemét, Hungary courts
+
+### 11.4 Arbitration (Non-EU Users)
+
+Disputes not resolved informally shall be settled by binding arbitration under:
+- UNCITRAL Arbitration Rules
+- Single arbitrator
+- Location: Budapest, Hungary
+- Language: English
+- Each party bears own costs
+
+**Exceptions to Arbitration**:
+- Small claims court actions
+- Injunctive relief for IP violations
+- Claims that cannot be arbitrated under applicable law
+
+### 11.5 Class Action Waiver
+
+WHERE PERMITTED: You waive the right to participate in class actions, class arbitrations, or representative actions. Claims must be brought individually.
+
+## 12. TERMINATION
+
+### 12.1 Termination by You
+
+You may terminate these Terms anytime by:
+- Deleting the App from all your devices
+- Ceasing all use of the App
+- Exporting your data before deletion (optional)
+
+### 12.2 Termination by Us
+
+We may terminate or suspend your access:
+- **Immediately**: For Terms violations or illegal activity
+- **30 Days Notice**: For convenience or service discontinuation
+- **No Notice**: If required by law or court order
+
+### 12.3 Effect of Termination
+
 Upon termination:
-- All rights granted to you under these Terms will immediately cease
-- You must delete all copies of the App from your devices
-- Sections 4, 7, 8, 9, 11, and 12 shall survive termination
+- Your license to use the App ends immediately
+- You must delete all copies of the App
+- Premium subscriptions continue until period ends
+- Sections 4, 8, 9, 10, 11, and 13 survive termination
 
-## 11. GOVERNING LAW AND DISPUTES
+### 12.4 Data After Termination
+- Local data remains on your device until deleted
+- We have no obligation to maintain or return data
+- Export your data before terminating
 
-### 11.1 Governing Law
-These Terms are governed by the laws of Hungary and the European Union, without regard to conflict of law principles.
+## 13. GENERAL PROVISIONS
 
-### 11.2 Jurisdiction
-Any disputes arising from these Terms shall be subject to the exclusive jurisdiction of the courts of Kecskemét, Hungary.
+### 13.1 Entire Agreement
 
-### 11.3 Dispute Resolution
-Before initiating legal proceedings, you agree to attempt to resolve any dispute through good faith negotiation by contacting us at securify@securedataerase.com.
+These Terms and the Privacy Policy constitute the complete agreement and supersede all prior agreements.
 
-## 12. GENERAL PROVISIONS
+### 13.2 Severability
 
-### 12.1 Entire Agreement
-These Terms and our Privacy Policy constitute the entire agreement between you and József Juhász regarding the App.
+If any provision is found unenforceable:
+- The provision will be modified to be enforceable
+- If modification impossible, provision is severed
+- Remaining Terms continue in full effect
 
-### 12.2 Severability
-If any provision of these Terms is found to be unenforceable, the remaining provisions shall continue in full force and effect.
+### 13.3 Waiver
 
-### 12.3 Waiver
-No waiver of any term shall be deemed a further or continuing waiver of such term or any other term.
+No waiver is effective unless in writing. Failure to enforce any right is not a waiver of future enforcement.
 
-### 12.4 Assignment
-You may not assign or transfer these Terms without our prior written consent. We may assign these Terms without restriction.
+### 13.4 Assignment
+- **You**: Cannot assign these Terms without our written consent
+- **Us**: May assign freely to successors or acquirers
 
-### 12.5 Force Majeure
-We shall not be liable for any failure or delay in performance due to circumstances beyond our reasonable control.
+### 13.5 Force Majeure
 
-### 12.6 Modifications
-We reserve the right to modify these Terms at any time. We will notify you of changes by updating the "Last Updated" date. Your continued use of the App after changes constitutes acceptance.
+Neither party liable for delays due to:
+- Natural disasters or acts of God
+- War, terrorism, or civil unrest
+- Government actions or regulations
+- Pandemic or health emergencies
+- Utility or internet failures
 
-### 12.7 Language
-These Terms are written in English. Any translations are provided for convenience only, and the English version shall prevail in case of conflict.
+### 13.6 Modifications to Terms
 
-## 13. CONTACT INFORMATION
+We may modify these Terms by:
+- Posting updated Terms in the App
+- Notifying you 30 days before changes
+- Obtaining consent for material adverse changes
+- Continued use after notice constitutes acceptance
 
-For questions, concerns, or notices regarding these Terms, please contact:
+### 13.7 Language
+- **Binding Version**: English
+- **Translations**: For convenience only
+- **Conflicts**: English version prevails
 
-**József Juhász**  
+### 13.8 Electronic Communications
+
+You consent to electronic communications and agree that electronic signatures satisfy any legal signature requirements.
+
+## 14. PLATFORM-SPECIFIC TERMS
+
+### 14.1 Apple App Store Additional Terms
+
+If downloaded from Apple App Store:
+- These Terms are between you and Developer only
+- Apple has no obligation to provide support
+- Apple not responsible for product claims
+- Apple is third-party beneficiary with enforcement rights
+- You comply with Apple's Terms of Service
+
+### 14.2 Google Play Store Additional Terms
+
+If downloaded from Google Play:
+- You comply with Google Play Terms of Service
+- Google bears no liability for the App
+- Google is not party to these Terms
+
+### 14.3 Alternative Distribution
+
+If we offer direct distribution:
+- Additional terms may apply
+- Security warnings don't indicate App issues
+- You assume risks of sideloading
+
+## 15. ACCESSIBILITY AND SUPPORT
+
+### 15.1 Accessibility Commitment
+
+We strive for WCAG 2.1 Level AA compliance:
+- Screen reader compatibility
+- Keyboard navigation support
+- High contrast mode support
+- Text size adjustment capability
+
+### 15.2 Support Channels
+- **Email**: securify@securedataerase.com
+- **Response Time**: 48-72 hours (standard), 24 hours (premium)
+
+### 15.3 Known Limitations
+
+Current accessibility limitations:
+- Some animations may cause motion sensitivity
+- Voice control partially supported
+- Ongoing improvements in each update
+
+## 16. CONSUMER RIGHTS NOTICES
+
+### 16.1 EU/EEA Consumer Rights
+
+You have statutory rights including:
+- 14-day withdrawal for digital content (waived on download)
+- 2-year legal guarantee for conformity
+- Right to complain to consumer protection authorities
+
+### 16.2 Hungarian Consumer Protection
+
+Hungarian consumers may contact:  
+Budapest Főváros Kormányhivatala  
+Fogyasztóvédelmi Főosztály  
+1051 Budapest, Sas u. 19  
+Phone: +36 1 450 2598
+
+### 16.3 US State-Specific Rights
+
+California residents have additional rights under CCPA - see Privacy Policy.
+
+## 17. CONTACT INFORMATION
+
+**For Terms-related inquiries:**
+
+József Juhász  
 Individual Entrepreneur  
 6000 Kecskemét, Katona József utca 14  
 Hungary  
-Email: securify@securedataerase.com
 
-## 14. APPLE APP STORE ADDITIONAL TERMS
+**Email:** securify@securedataerase.com
 
-If you download the App from the Apple App Store:
-- These Terms are between you and József Juhász only, not Apple
-- Apple has no obligation to provide maintenance or support for the App
-- Apple is not responsible for any product warranties
-- Apple is not responsible for addressing any claims relating to the App
-- Apple is a third-party beneficiary with the right to enforce these Terms
-
-## 15. GOOGLE PLAY STORE ADDITIONAL TERMS
-
-If you download the App from Google Play Store:
-- These Terms are between you and József Juhász only, not Google
-- Your use must comply with Google Play's Terms of Service
-- Google bears no responsibility for the App
-
-## 16. CONSUMER RIGHTS NOTICE
-
-### 16.1 EU Consumer Rights
-If you are a consumer in the European Union, you have certain statutory rights that cannot be excluded by these Terms, including:
-- 14-day withdrawal right for digital content (waived upon download)
-- Statutory warranty rights under EU consumer law
-- Right to lodge complaints with supervisory authorities
-
-### 16.2 Hungarian Consumer Protection
-Hungarian consumers may contact the Hungarian Consumer Protection Authority for dispute resolution.
+**Business Hours:**  
+Monday-Friday, 9:00-17:00 CET  
+Response within 2 business days
 
 ---
 
 **BY USING FOCUSVAULT, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE.**
 
-*End of Terms of Service*
+**Last Action Required**: Please confirm your age and acceptance of these Terms when prompted in the App.
+
+*End of Terms of Service v2.0*
