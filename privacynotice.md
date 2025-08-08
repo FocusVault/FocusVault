@@ -145,8 +145,8 @@ We've conducted Legitimate Interest Assessments (LIAs) for:
 ## 5. TECHNICAL AND ORGANIZATIONAL MEASURES
 
 ### 5.1 Encryption Standards
-- **At Rest**: AES-256-GCM with per-device unique keys
-- **Key Derivation**: PBKDF2 with 100,000 iterations
+- **At Rest**: AES-256-CTR with per-device unique keys
+- **Key Derivation**: SHA-256 with device-unique salt
 - **Export Files**: Optional AES-256 encryption with user-defined password
 - **Secure Storage**: iOS Keychain / Android Keystore integration
 
